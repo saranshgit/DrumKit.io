@@ -30,7 +30,7 @@ function makesound(key) {
         case "a":
             var kick = new Audio("sounds/kick-bass.mp3");
             kick.play();
-            break;
+            break
         case "s":
             var snare = new Audio("sounds/snare.mp3");
             snare.play();
